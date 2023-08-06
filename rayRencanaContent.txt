@@ -1,0 +1,3 @@
+RENCANA KONTEN RAY
+- Apa itu Front dan Backend
+- Apa itu devops
