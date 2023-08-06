@@ -4,5 +4,5 @@ RENCANA KONTEN RAY
   Deskripsikan artinya dan Jelaskan tugas nya
 - Skill penting para programmer
 - FRAMEWORK PALING DIBUTUHKAN PROGRAMMER
-  Angular
-  React
+  React, Vue dan lain lain
+- Pyhton bosque
