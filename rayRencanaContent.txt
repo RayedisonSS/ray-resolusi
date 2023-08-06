@@ -4,3 +4,5 @@ RENCANA KONTEN RAY
   Deskripsikan artinya dan Jelaskan tugas nya
 - Apa itu devops
 - Skill penting para programmer
+- FRAMEWORK PALING DIBUTUHKAN PROGRAMMER
+- Pyhton bosque
