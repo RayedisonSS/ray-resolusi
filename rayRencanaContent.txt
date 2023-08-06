@@ -2,7 +2,6 @@ RENCANA KONTEN RAY
 
 - Apa itu Front dan Backend
   Deskripsikan artinya dan Jelaskan tugas nya
-- Apa itu devops
 - Skill penting para programmer
 - FRAMEWORK PALING DIBUTUHKAN PROGRAMMER
   React, Vue dan lain lain
